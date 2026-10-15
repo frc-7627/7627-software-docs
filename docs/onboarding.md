@@ -13,7 +13,7 @@ A robot that has merely been designed, built, and wired is not capable of anythi
 You will need a laptop(not a Chromebook! Ideally a windows machine but linux may work in certain cases) and access to unrestricted Internet (not school managed wifi). Then, make sure you already have, or otherwise install, the following applications:
 * [**WPILib**](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) - An indispensable library and development environment for FRC software.
 * [**NI Tools**](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#581857) a NI account is needed to download - this will include all the basic apps you need to run a robot including Driver Station and Roborio imaging tool
-* A **flashing software** of your choice. Some options are listed below
+* A **flashing software** of your choice. Some options are listed below:
   * [**Balena Etcher**](https://etcher.balena.io/) - Works, although deprecated.
   * [**Raspberry Pi imager**](https://www.raspberrypi.com/software/) - Software lead 2026 note: I haven't used this but I've heard it works for the job
 * [**Rev hardware client**](https://docs.revrobotics.com/rev-hardware-client) - This is used to interface with REV hardware (no way) such as the sparkmax
