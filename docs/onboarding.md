@@ -13,5 +13,5 @@ A robot that has merely been designed, built, and wired is not capable of anythi
 You will need a laptop(not a Chromebook!) and access to unrestricted Internet. Then, make sure you already have, or otherwise install, the following applications:
 * [**WPILib**](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) - An indispensable library and development environment for FRC software.
 * [**NI Tools**]() - 
-* A **flashing software** of your choice. Some options are listed below
+* A **flashing software** of your choice. Some options are listed below:
   * [**Balena Etcher**]() - Works, although deprecated.
