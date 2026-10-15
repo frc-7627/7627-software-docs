@@ -5,12 +5,14 @@ Welcome to the 7627 software onboarding guide!
 ## What does software do?
 
 A robot that has merely been designed, built, and wired is not capable of anything. The missing piece is **software**, and it is your job as part of the software team to produce that missing piece. This will consist of two primary responsibilities:
+
 * **Firmware Management** - As a prerequisite to ensure the software can talk to the hardware, the **firmware** must be properly installed and configured.
 * **Programming** - To give the robot the instructions it needs in a form the it can understand, the robot must be **programmed**. We use the **Java** programming language for robot code. If you don't know how to program, in Java or at all, worry not! This documentation contains all the resources you will need to know.
 
 ## Prerequisites
 
 You will need a laptop(not a Chromebook! Ideally a Windows laptop, although Linux may work) and access to unrestricted Internet(not school managed Wi-Fi! Use a mobile hotspot or VPN). Then, make sure you already have, or otherwise install, the following applications:
+
 * [**WPILib**](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) - An indispensable library and development environment for FRC software.
 * [**NI Tools**](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#581857) - This will include all the basic apps you need to run a robot including Driver Station and the roboRIO imaging tool. Note, you will need to create an NI account, but luckily it is free.
   * **RoboRIO Imaging Tool** - Packaged within NI tools, but is essential for roboRIO operation(Systemcore will replace roboRIO as of the 2027 season). It primarily allows you to update or start anew on a roboRIO.
@@ -26,11 +28,13 @@ You will need a laptop(not a Chromebook! Ideally a Windows laptop, although Linu
 ### New to programming in Java?
 
 You will also need to know how to program in Java. Some useful tutorials are listed below:
+
 * [W3 Schools Java Tutorial](https://www.w3schools.com/java/) - Teaches the fundamentals of Java. You don't need any programming knowledge to follow the tutorial.
 
 ## Next Steps
 
 Each of the following are good next places to learn more about software. You can visit each in any order:
+
 * [Installing and Configuring Firmware]() - A guide for dealing with firmware setup.
 * [Programming for 7627]() - A guide more focused on the particulars of programming for the team.
 * [Troubleshooting]() - A guide for when things go wrong.
