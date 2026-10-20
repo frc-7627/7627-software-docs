@@ -48,14 +48,14 @@ You will also need to know how to program in Java. Some useful tutorials are lis
 Each of the following are good next places to learn more about software. You can visit each in any order:
 
 
-* [Installing and Configuring Firmware]() - A guide for dealing with firmware setup.
+* [Installing and Configuring Firmware](onboarding/firmware-installation.md) - A guide for dealing with firmware setup.
 
-* [Programming for 7627]() - A guide more focused on the particulars of programming for the team.
+* [Programming for 7627](onboarding/programming-for-7627.md) - A guide more focused on the particulars of programming for the team.
 
-* [Troubleshooting]() - A guide for when things go wrong.
+* [Troubleshooting](onboarding/troubleshooting.md) - A guide for when things go wrong.
 
-* [Who you gonna call?]() - A guide for determining who you need to ask for information.
+* [Who you gonna call?](onboarding/who-you-gonna-call.md) - A guide for determining who you need to ask for information.
 
-* [Glossary]() - A guide for the various jargon you will eventually need to know.
+* [Glossary](misc/glossary.md) - A guide for the various jargon you will eventually need to know.
 
-* [Technical Documentation]() - Detailed documentation about our codebase, a good reference for if you need information concerning the codebase itself.
+* [Technical Documentation](tech-docs.md) - Detailed documentation about our codebase, a good reference for if you need information concerning the codebase itself.
