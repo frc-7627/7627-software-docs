@@ -1,6 +1,6 @@
 # Glossary
 
-The following is a list of definitions you should know in FRC.
+The following is a list of definitions you should know as a member of the software team. If you encounter a term you need to know but is not present on this list, you should add it.
 
 ## A
 
