@@ -22,9 +22,13 @@ The following is a list of definitions you should know in FRC.
 
 **firmware** (noun) - Specialized software embedded into a hardware device whose purpose is to provide low-level control, startup instructions, and communication management. It provides an intermediary layer between more high-level software, such as the code you write for the robot, and the hardware devices that your code controls, such as motors, sensors, and LEDs.
 
+**FIRST Robotics** (noun) - The non-profit youth-serving STEM organization which hosts FRC. Its name is an acronym for *For Inspiration and Recognition of Science and Technology*. [Website](https://www.firstinspires.org/)
+
 **flash** (verb) - To completely replace the installed firmware on a device.
 
 **flashing software** (noun) - Software whose purpose is to flash devices, generally of a particular brand.
+
+**FRC** (noun) - FIRST Robotics Competition, the yearly high-school-level competition in which our team competes. [Website](https://www.firstinspires.org/programs/frc/)
 
 ## G
 
