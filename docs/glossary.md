@@ -1,6 +1,6 @@
 # Glossary
 
-The following is a list of definitions you should know as a member of the software team. If you encounter a term you needed to know but didn't know and wasn't not present on this list, you should add it.
+The following is a list of definitions you should know as a member of the software team. If you encounter a term that you needed to know but that you didn't know and it wasn't not present on this list, you should add that term.
 
 ## A
 
