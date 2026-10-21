@@ -36,7 +36,7 @@ You will need a laptop(not a Chromebook! Ideally a Windows laptop, although Linu
 
 * [**AdvantageScope**](https://docs.advantagescope.org/overview/installation) - Primarily useful for playing back past logs, indispensable for troubleshooting.
 
-### New to programming in Java? test
+### New to programming in Java?
 
 You will also need to know how to program in Java. Some useful tutorials are listed below:
 
