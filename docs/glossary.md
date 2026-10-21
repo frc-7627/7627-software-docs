@@ -6,9 +6,15 @@ The following is a list of definitions you should know as a member of the softwa
 
 **abstract** (adjective) - When certain concrete or particular details are irrelevant. For example, bofalib is abstract because the functionality it provides functionality for essentially any configuration of motors, as the particular details concerning the configuration of motors on the robot are irrelevant.
 
+**abstraction** (noun) - A piece of software or code that your code may depend upon to allow your code to be more abstract. For example, bofalib provides several very high-level abstractions to allow for the quick creation of subsystems.
+
 **abstract** (verb) - To make more abstract.
 
 ## B
+
+**binding** (noun) - An identifier that facilitates access to an external functionality in software, for example the name of a class representing a motor in the vendor dependency provided by the vendor of that motor.
+
+**bofalib** (noun) - Our team's in-house library, providing many higher-level abstractions for the rapid development of our robot's software.
 
 ## C
 
