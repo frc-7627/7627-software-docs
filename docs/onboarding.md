@@ -56,6 +56,6 @@ Each of the following are good next places to learn more about software. You can
 
 * [Who you gonna call?](onboarding/who-you-gonna-call.md) - A guide for determining who you need to ask for information.
 
-* [Glossary](misc/glossary.md) - A guide for the various jargon you will eventually need to know.
+* [Glossary](glossary.md) - A guide for the various jargon you will eventually need to know.
 
 * [Technical Documentation](tech-docs.md) - Detailed documentation about our codebase, a good reference for if you need information concerning the codebase itself.
