@@ -4,9 +4,15 @@ The following is a list of definitions you should know in FRC.
 
 ## A
 
+**abstract** (adjective) - When certain concrete or particular details are irrelevant. For example, bofalib is abstract because the functionality it provides functionality for essentially any configuration of motors, as the particular details concerning the configuration of motors on the robot are irrelevant.
+
+**abstract** (verb) - To make more abstract.
+
 ## B
 
 ## C
+
+**concrete** (adjective) - An antonym for abstract.
 
 ## D
 
@@ -26,6 +32,8 @@ The following is a list of definitions you should know in FRC.
 
 **hardware** (noun) - The physical devices that execute software, such as motors, sensors, and LEDs. An entire robot is also an example of hardware.
 
+**high-level** (adjective) - A synonym for abstract.
+
 ## I
 
 ## J
@@ -35,6 +43,8 @@ The following is a list of definitions you should know in FRC.
 ## K
 
 ## L
+
+**low-level** (adjective) - A synonym for concrete and an antonym for abstract.
 
 ## M
 
